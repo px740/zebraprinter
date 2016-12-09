@@ -1,0 +1,27 @@
+{
+  "name": "zebraPrinter",
+  "version": "0.0.1",
+  "description": "Apache Cordova Plugin for Zebra QLN320 Mobile Printer",
+  "cordova": {
+    "id": "cordova-plugin-zebraprinter",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/px740/zebraprinter.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "Peanut Hub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/px740/zebraprinter/issues"
+  },
+  "homepage": "https://github.com/px740/zebraprinter#readme"
+}
